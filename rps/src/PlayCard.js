@@ -1,4 +1,5 @@
 import React from 'react';
+const scissors ="https://i.imgur.com/pgjyhIZ"
 
 const PlayerCard = (props) =>{
 
